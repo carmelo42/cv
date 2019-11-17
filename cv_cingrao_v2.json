@@ -1,0 +1,257 @@
+{
+  "basics": {
+    "name": "Carmelo INGRAO",
+    "label": "Sysadmin DevOps",
+    "summary": "Administrateur de Systèmes Open Source, j'ai su évoluer pour prendre le virage de l'automation, avec des technologies comme Packer, Terraform, Ansible, qui me permettent d'attaquer les solutions Cloud AWS, GCP, Azure ...",
+    "website": "https://www.carmelo.fr",
+    "phone": "+33659235004",
+    "email": "cv@ingrao.fr",
+    "picture": "",
+    "location": {
+      "address": "580 route de la Pomasse",
+      "postalCode": "42380",
+      "city": "Saint-Nizier-de-Fronas",
+      "countryCode": "FR",
+      "region": "Auvergne-Rhône-Alpes"
+    },
+    "profiles": [
+      {
+        "url": "https://www.linkedin.com/in/carmelo-ingrao",
+        "username": "carmelo ingrao",
+        "network": "linkedin"
+      },
+      {
+        "url": "https://github.com/carmelo42",
+        "username": "carmelo42",
+        "network": "github"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company":"Adista",
+      "location":"Saint-Etienne, FR",
+      "description":"Opérateurs de services hébergés",
+      "position":"Administrateur de Systèmes Open Source",
+      "website":"https://www.adista.fr",
+      "startDate":"2019",
+      "endDate":"2019",
+      "summary":"DevOps, sysadmin",
+      "highlights":[
+        "infrastructure As Code",
+        "Pilotage de projets Web Open Source (plus de 1000 projets clients)",
+        "Utilisation avancée d'outils d'intégration et de déploiement continue",
+        "Plus de 80 projets clients déployés et maintenus via Ansible"
+      ]
+    },
+    {
+      "company":"ENISE",
+      "location":"Saint-Etienne, FR",
+      "description":"Opérateurs de services hébergés",
+      "position":"Administrateur systèmes Linux & réseaux",
+      "website":"https://www.enise.fr",
+      "startDate":"2014",
+      "endDate":"2016",
+      "summary":"DevOps, sysadmin, project leader",
+      "highlights":[
+        "Déploiement d'infrastructures Web Open Source sous Debian/Centos)",
+        "Administration du parc clients/serveurs grâce à Spacewalk (200 serveurs / 500 postes clients",
+        "MCO de l'infrastructure"
+      ]
+    },
+    {
+      "company":"-",
+      "location":"Saint-Etienne, FR",
+      "description":"Laboratoire d'Expertises Judiciaires",
+      "position":"Administrateur systèmes, Assistant Expert Judiciaire",
+      "startDate":"2011",
+      "endDate":"2017",
+      "summary":"sysadmin, project leader, expert, analyse",
+      "highlights":[
+        "Administration de l'infrastructure de production",
+        "Réalisation de missions d'expertises judiciaires",
+        "Assistance aux huissiers de justice",
+        "Développement d'outils de tracking et d'enregistrement vidéos"
+      ]
+    }
+   
+  ],
+  
+  "skills": [
+    {
+      "name": "Architecture",
+      "level": "Senior",
+      "score": "90",
+      "keywords": [
+        "Terraform",
+        "Ansible",
+        "Packer",
+        "Vagrant"
+      ]      
+    },
+    {
+      "level": "Senior",
+      "name": "Cloud & hypervisors",
+      "score": "80",
+      "keywords": [
+        "OVH",
+        "AWS",
+        "LXD",
+        "Vmware"
+      ]
+    },
+    {
+      "level": "Senior",
+      "name": "Containers",
+      "score": "90",
+      "keywords": [
+        "LXC"
+      ]
+    },
+    {
+      "level": "Senior",
+      "name": "Monitoring & metrology",
+      "score": "70",
+      "keywords": [
+        "Grafana",
+        "Influxdb"
+      ]
+    },
+    {
+      "level": "Senior",
+      "name": "Languages, Operating Systems & Tools",
+      "score": "90",
+      "keywords": [
+        "bash",
+        "nodejs",
+        "python",
+        "git",
+        "linux"
+      ]
+    },
+    {
+      "level": "Senior",
+      "name": "Research & Development",
+      "score": "90",
+      "keywords": [
+        "IP Networking",
+        "DNS",
+        "Firewalls",
+        "Load Balancing",
+        "SaaS/PaaS/IaaS",
+        "CI/CD",
+        "IOT",
+        "Security"
+      ]
+    }
+  ],
+  "volunteer": [
+  ],
+  "awards": [
+    {
+      "flavor": "certification",
+      "title": "EX200",
+      "date": "2013",
+      "awarder": "Redhat"
+    }
+  ],
+  "publications": [
+  ],
+  "interests": [
+    {
+      "name": "Musique classique",
+      "summary": "Garder une bonne condition physique c'est important!",
+      "keywords": [
+        "Violon"
+      ]
+    },
+    {
+      "name": "IOT / Domotique",
+      "summary": "la domotique, c'est l'automation de sa maison ;)",
+      "keywords": [
+        "IOT",
+        "DIY"
+      ]
+    },
+    {
+      "name": "Bricolage",
+      "summary": "Savoir prendre le temps.",
+      "keywords": [
+        "mécanique",
+        "Impression 3D"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "reference": "Mathieu likes his job and do it very well, I liked to work with him.",
+      "name": "Olivier Jan, Strategy & Innovation, Adista",
+      "url": "https://www.linkedin.com/in/carmelo-ingrao"
+    },
+    {
+      "reference": "Great partner, Mathieu is always volonteer and professional",
+      "name": "Sandro Cazzaniga, Team Leader, Smile"
+    }
+  ],
+  "languages":[
+    {
+      "language":"English",
+      "fluency":"Advanced"
+    },
+    {
+      "language":"French",
+      "fluency":"Native speaker"
+    }
+  ],
+  "projects":[
+    {
+      "name":"Wiseflat",
+      "description":"Une API pour votre domotique",
+      "highlights":[
+        "Hébergez votre raspberry pi",
+        "Installez des microservices au format LXC grâce à un projet communautaire Ansible",
+        "Interrogez l'API pour enrichir vos scénarios de domotique"
+      ],
+      "keywords":[
+        "IOT",
+        "API",
+        "Swagger",
+        "home automated system",
+        "Totaljs"
+      ],
+      "startDate":"2008",
+      "endDate":"2019",
+      "url":"https://www.wiseflat.com",
+      "roles":[
+        "Team lead",
+        "Designer"
+      ],
+      "entity":"Smoogle",
+      "type":"application"
+    },
+    {
+      "name":"Qws",
+      "description":"Cloud orchestrator manager",
+      "highlights":[
+        "Bac à sable pour ma R&D",
+        "Déploiement d'infrastructures as a service",
+        "Déploiement d'applications as a service"
+      ],
+      "keywords":[
+        "Cloud",
+        "Public/private cloud",
+        "sandbox",
+        "web applications"
+      ],
+      "startDate":"2012",
+      "endDate":"2019",
+      "url":"https://www.qws.io",
+      "roles":[
+        "Team lead",
+        "Designer"
+      ],
+      "entity":"Smoogle",
+      "type":"application"
+    }
+  ]
+}
