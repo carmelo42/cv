@@ -1,0 +1,219 @@
+{
+  "name": "Carmelo INGRAO",
+  "info": {
+    "label": "Sysadmin DevOps",
+    "image": "",
+    "brief": "Administrateur de Systèmes Open Source, j'ai su évoluer pour prendre le virage de l'automation, avec des technologies comme Packer, Terraform, Ansible, qui me permettent d'attaquer les solutions Cloud AWS, GCP, Azure ..."
+  },
+  "contact": {
+    "email": "cv@ingrao.fr",
+    "phone": "+33659235004",
+    "website": "https://www.carmelo.fr"
+  },
+  "meta": {
+    "format": "FRESH@^1.0.0-beta",
+    "modified": "2019-11-17T16:18:13.509Z"
+  },
+  "location": {
+    "city": "Saint-Nizier-de-Fornas",
+    "region": "Auvergne-Rhône-Alpes",
+    "country": "FR",
+    "code": "42380",
+    "address": "580 route de la Pomasse"
+  },
+  "employment": {
+    "history": [
+      {
+        "position": "Administrateur de Systèmes Open Source",
+        "employer": "Adista",
+        "summary": "DevOps, sysadmin",
+        "start": "2019",
+        "end": "2019",
+        "url": "https://www.adista.fr",
+        "keywords": [],
+        "highlights": [
+          "infrastructure As Code",
+          "Pilotage de projets Web Open Source",
+          "Utilisation avancée d'outils d'intégration et de déploiement continue",
+          "RUN des infrastructures clients"
+        ]
+      },
+      {
+        "position": "Administrateur de Systèmes Open Source",
+        "employer": "Moi même :)",
+        "summary": "DevOps, sysadmin, vente, créaweb",
+        "start": "2017",
+        "end": "2019",
+        "keywords": [],
+        "highlights": [
+          "Découverte du monde l'entreprise côté Entrepreneur !",
+          "Création de sites internet",
+          "Administration de serveurs"
+        ]
+      },
+      {
+        "position": "Administrateur systèmes, Assistant Expert Judiciaire",
+        "employer": "IBOU",
+        "summary": "sysadmin, project leader, expert, analyse",
+        "start": "2013",
+        "end": "2017",
+        "keywords": [],
+        "highlights": [
+          "Administration de l'infrastructure de production",
+          "Réalisation de missions d'expertises judiciaires",
+          "Assistance aux huissiers de justice",
+          "Développement d'outils de tracking et d'enregistrement vidéos"
+        ]
+      },
+      {
+        "position": "Technicien de support",
+        "employer": "Groupe Casino",
+        "summary": "support, dépannage",
+        "start": "2003",
+        "end": "2007",
+        "url": "https://www.groupe-casino.fr",
+        "keywords": []
+      },
+      {
+        "position": "Professeur de Violon & Formation Musicale",
+        "employer": "Diverses structures",
+        "summary": "apprentissage à de jeunes enfants ou à des adultes",
+        "start": "2003",
+        "end": "2017",
+        "keywords": []
+      }
+    ]
+  },
+  "skills": {
+    "sets": [
+      {
+        "name": "Architecture",
+        "level": "Senior",
+        "skills": [
+          "Terraform",
+          "Ansible",
+          "Packer",
+          "Vagrant"
+        ]
+      },
+      {
+        "name": "Cloud & hypervisors",
+        "level": "Senior",
+        "skills": [
+          "OVH",
+          "AWS",
+          "LXD",
+          "Vmware"
+        ]
+      },
+      {
+        "name": "Containers",
+        "level": "Senior",
+        "skills": [
+          "LXC"
+        ]
+      },
+      {
+        "name": "Monitoring & metrology",
+        "level": "Senior",
+        "skills": [
+          "Grafana",
+          "Influxdb"
+        ]
+      },
+      {
+        "name": "Languages, Operating Systems & Tools",
+        "level": "Senior",
+        "skills": [
+          "bash",
+          "nodejs",
+          "python",
+          "git",
+          "linux"
+        ]
+      },
+      {
+        "name": "Research & Development",
+        "level": "Senior",
+        "skills": [
+          "IP Networking",
+          "DNS",
+          "Firewalls",
+          "Load Balancing",
+          "SaaS/PaaS/IaaS",
+          "CI/CD",
+          "IOT",
+          "Security"
+        ]
+      }
+    ]
+  },
+  "writing": [],
+  "social": [
+    {
+      "label": "linkedin",
+      "network": "linkedin",
+      "url": "https://www.linkedin.com/in/carmelo-ingrao",
+      "user": "carmelo ingrao"
+    },
+    {
+      "label": "github",
+      "network": "github",
+      "url": "https://github.com/carmelo42",
+      "user": "carmelo42"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Musique classique",
+      "summary": "une ouverture d'esprit",
+      "keywords": [
+        "Violon"
+      ]
+    },
+    {
+      "name": "IOT / Domotique",
+      "summary": "la domotique, c'est l'automation de sa maison ;)",
+      "keywords": [
+        "IOT",
+        "DIY"
+      ]
+    },
+    {
+      "name": "Bricolage",
+      "summary": "Savoir prendre le temps.",
+      "keywords": [
+        "Mécanique",
+        "Impression 3D"
+      ]
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Lorem Ipsum !",
+      "flavor": "professional",
+      "quote": "Lorem Ipsum .",
+      "private": false
+    },
+    {
+      "name": "Lorem Ipsum",
+      "flavor": "professional",
+      "quote": "Lorem Ipsum",
+      "private": false
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    },
+    {
+      "language": "Deutsch",
+      "fluency": "Ein bisschen"
+    },
+    {
+      "language": "French",
+      "fluency": "Native speaker"
+    }
+  ]
+}
