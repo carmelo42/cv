@@ -6,7 +6,7 @@
     "website": "https://www.carmelo.fr",
     "phone": "+33659235004",
     "email": "cv@ingrao.fr",
-    "picture": "",
+    "picture": "https://www.carmelo.fr/wp-content/uploads/2019/11/carmelo.jpeg",
     "location": {
       "address": "580 route de la Pomasse",
       "postalCode": "42380",
@@ -54,7 +54,8 @@
       "endDate":"2019",
       "summary":"DevOps, sysadmin, vente, créaweb",
       "highlights":[
-        "Découverte du monde l'entreprise côté Entrepreneur !",
+        "Création d'une Société de Service Informatiques",
+        "Découverte du monde de l'entreprise côté Entrepreneur !",
         "Création de sites internet",
         "Administration de serveurs"
       ]
@@ -88,7 +89,7 @@
     },
 
     {
-      "company":"Diverses structures",
+      "company":"Diverses écoles",
       "location":"Saint-Etienne, Ambert, ...",
       "description":"Enseignant",
       "position":"Professeur de Violon & Formation Musicale",
@@ -102,7 +103,7 @@
   "skills": [
     {
       "name": "Architecture",
-      "level": "Senior",
+      "level": "",
       "score": "90",
       "keywords": [
         "Terraform",
@@ -112,18 +113,18 @@
       ]      
     },
     {
-      "level": "Senior",
+      "level": "",
       "name": "Cloud & hypervisors",
       "score": "80",
       "keywords": [
+        "LXD",
         "OVH",
         "AWS",
-        "LXD",
         "Vmware"
       ]
     },
     {
-      "level": "Senior",
+      "level": "",
       "name": "Containers",
       "score": "90",
       "keywords": [
@@ -131,7 +132,7 @@
       ]
     },
     {
-      "level": "Senior",
+      "level": "",
       "name": "Monitoring & metrology",
       "score": "70",
       "keywords": [
@@ -140,7 +141,7 @@
       ]
     },
     {
-      "level": "Senior",
+      "level": "",
       "name": "Languages, Operating Systems & Tools",
       "score": "90",
       "keywords": [
@@ -152,7 +153,7 @@
       ]
     },
     {
-      "level": "Senior",
+      "level": "",
       "name": "Research & Development",
       "score": "90",
       "keywords": [
@@ -197,8 +198,8 @@
   ],
   "references": [
     {
-      "reference": "Lorem Ipsum .",
-      "name": "Lorem Ipsum !"
+      "reference": "Particulièrement efficace et disponible pour les collègues. J'ai eu le plaisir de travailler avec Carmelo pendant 9 mois sur des projets Ansible et de CI/CD. J'ai été particulièrement impressionné par sa capacité d'apprentissage et sa rapidité à s'approprier nos projets Web Opensources. Carmelo est un atout dans une équipe DevOps.",
+      "name": "Mathieu GARCIA - Expert IT, ADISTA"
 
     },
     {
@@ -216,8 +217,8 @@
       "fluency":"Ein bisschen"
     },
     {
-      "language":"French",
-      "fluency":"Native speaker"
+      "language":"Français",
+      "fluency": "Langue maternelle"
     }
   ]
   

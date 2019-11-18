@@ -2,7 +2,7 @@
   "name": "Carmelo INGRAO",
   "info": {
     "label": "Sysadmin DevOps",
-    "image": "",
+    "image": "https://www.carmelo.fr/wp-content/uploads/2019/11/carmelo.jpeg",
     "brief": "Administrateur de Systèmes Open Source, j'ai su évoluer pour prendre le virage de l'automation, avec des technologies comme Packer, Terraform, Ansible, qui me permettent d'attaquer les solutions Cloud AWS, GCP, Azure ..."
   },
   "contact": {
@@ -12,7 +12,7 @@
   },
   "meta": {
     "format": "FRESH@^1.0.0-beta",
-    "modified": "2019-11-17T16:18:13.509Z"
+    "modified": "2019-11-18T06:46:31.394Z"
   },
   "location": {
     "city": "Saint-Nizier-de-Fornas",
@@ -46,7 +46,8 @@
         "end": "2019",
         "keywords": [],
         "highlights": [
-          "Découverte du monde l'entreprise côté Entrepreneur !",
+          "Création d'une Société de Service Informatiques",
+          "Découverte du monde de l'entreprise côté Entrepreneur !",
           "Création de sites internet",
           "Administration de serveurs"
         ]
@@ -76,7 +77,7 @@
       },
       {
         "position": "Professeur de Violon & Formation Musicale",
-        "employer": "Diverses structures",
+        "employer": "Diverses écoles",
         "summary": "apprentissage à de jeunes enfants ou à des adultes",
         "start": "2003",
         "end": "2017",
@@ -88,7 +89,7 @@
     "sets": [
       {
         "name": "Architecture",
-        "level": "Senior",
+        "level": "",
         "skills": [
           "Terraform",
           "Ansible",
@@ -98,24 +99,24 @@
       },
       {
         "name": "Cloud & hypervisors",
-        "level": "Senior",
+        "level": "",
         "skills": [
+          "LXD",
           "OVH",
           "AWS",
-          "LXD",
           "Vmware"
         ]
       },
       {
         "name": "Containers",
-        "level": "Senior",
+        "level": "",
         "skills": [
           "LXC"
         ]
       },
       {
         "name": "Monitoring & metrology",
-        "level": "Senior",
+        "level": "",
         "skills": [
           "Grafana",
           "Influxdb"
@@ -123,7 +124,7 @@
       },
       {
         "name": "Languages, Operating Systems & Tools",
-        "level": "Senior",
+        "level": "",
         "skills": [
           "bash",
           "nodejs",
@@ -134,7 +135,7 @@
       },
       {
         "name": "Research & Development",
-        "level": "Senior",
+        "level": "",
         "skills": [
           "IP Networking",
           "DNS",
@@ -190,9 +191,9 @@
   ],
   "testimonials": [
     {
-      "name": "Lorem Ipsum !",
+      "name": "Mathieu GARCIA - Expert IT, ADISTA",
       "flavor": "professional",
-      "quote": "Lorem Ipsum .",
+      "quote": "Particulièrement efficace et disponible pour les collègues. J'ai eu le plaisir de travailler avec Carmelo pendant 9 mois sur des projets Ansible et de CI/CD. J'ai été particulièrement impressionné par sa capacité d'apprentissage et sa rapidité à s'approprier nos projets Web Opensources. Carmelo est un atout dans une équipe DevOps.",
       "private": false
     },
     {
@@ -212,8 +213,8 @@
       "fluency": "Ein bisschen"
     },
     {
-      "language": "French",
-      "fluency": "Native speaker"
+      "language": "Français",
+      "fluency": "Langue maternelle"
     }
   ]
 }
