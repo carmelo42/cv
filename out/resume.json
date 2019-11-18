@@ -12,7 +12,7 @@
   },
   "meta": {
     "format": "FRESH@^1.0.0-beta",
-    "modified": "2019-11-18T06:46:31.394Z"
+    "modified": "2019-11-18T19:34:07.912Z"
   },
   "location": {
     "city": "Saint-Nizier-de-Fornas",
@@ -187,20 +187,6 @@
         "Mécanique",
         "Impression 3D"
       ]
-    }
-  ],
-  "testimonials": [
-    {
-      "name": "Mathieu GARCIA - Expert IT, ADISTA",
-      "flavor": "professional",
-      "quote": "Particulièrement efficace et disponible pour les collègues. J'ai eu le plaisir de travailler avec Carmelo pendant 9 mois sur des projets Ansible et de CI/CD. J'ai été particulièrement impressionné par sa capacité d'apprentissage et sa rapidité à s'approprier nos projets Web Opensources. Carmelo est un atout dans une équipe DevOps.",
-      "private": false
-    },
-    {
-      "name": "Lorem Ipsum",
-      "flavor": "professional",
-      "quote": "Lorem Ipsum",
-      "private": false
     }
   ],
   "languages": [

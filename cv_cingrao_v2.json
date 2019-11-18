@@ -196,17 +196,7 @@
       ]
     }
   ],
-  "references": [
-    {
-      "reference": "Particulièrement efficace et disponible pour les collègues. J'ai eu le plaisir de travailler avec Carmelo pendant 9 mois sur des projets Ansible et de CI/CD. J'ai été particulièrement impressionné par sa capacité d'apprentissage et sa rapidité à s'approprier nos projets Web Opensources. Carmelo est un atout dans une équipe DevOps.",
-      "name": "Mathieu GARCIA - Expert IT, ADISTA"
-
-    },
-    {
-      "reference": "Lorem Ipsum",
-      "name": "Lorem Ipsum"
-    }
-  ],
+  
   "languages":[
     {
       "language":"English",
