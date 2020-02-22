@@ -12,7 +12,7 @@
   },
   "meta": {
     "format": "FRESH@^1.0.0-beta",
-    "modified": "2019-11-18T19:34:07.912Z"
+    "modified": "2020-02-22T20:31:50.212Z"
   },
   "location": {
     "city": "Saint-Nizier-de-Fornas",
@@ -119,7 +119,8 @@
         "level": "",
         "skills": [
           "Grafana",
-          "Influxdb"
+          "Influxdb",
+          "Prometheus"
         ]
       },
       {
@@ -187,6 +188,20 @@
         "Mécanique",
         "Impression 3D"
       ]
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Mathieu GARCIA - Expert IT, ADISTA",
+      "flavor": "professional",
+      "quote": "Particulièrement efficace et disponible pour les collègues. J'ai eu le plaisir de travailler avec Carmelo pendant 9 mois sur des projets Ansible et de CI/CD. J'ai été particulièrement impressionné par sa capacité d'apprentissage et sa rapidité à s'approprier nos projets Web Opensources. Carmelo est un atout dans une équipe DevOps.",
+      "private": false
+    },
+    {
+      "name": "Sandro CAZZANIGA, Team Leader BU Ops, SMILE",
+      "flavor": "professional",
+      "quote": "Carmelo est rigoureux, motivé, curieux et sérieux. Un must-have dans son équipe et dans son entreprise",
+      "private": false
     }
   ],
   "languages": [
