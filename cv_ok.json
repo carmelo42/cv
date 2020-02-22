@@ -1,0 +1,227 @@
+{
+  "basics": {
+    "name": "Carmelo INGRAO",
+    "label": "Sysadmin DevOps",
+    "summary": "Administrateur de Systèmes Open Source, j'ai su évoluer pour prendre le virage de l'automation, avec des technologies comme Packer, Terraform, Ansible, qui me permettent d'attaquer les solutions Cloud AWS, GCP, Azure ...",
+    "website": "https://www.carmelo.fr",
+    "phone": "+33659235004",
+    "email": "cv@ingrao.fr",
+    "picture": "https://www.carmelo.fr/wp-content/uploads/2019/11/carmelo.jpeg",
+    "location": {
+      "address": "580 route de la Pomasse",
+      "postalCode": "42380",
+      "city": "Saint-Nizier-de-Fornas",
+      "countryCode": "FR",
+      "region": "Auvergne-Rhône-Alpes"
+    },
+    "profiles": [
+      {
+        "url": "https://www.linkedin.com/in/carmelo-ingrao",
+        "username": "carmelo ingrao",
+        "network": "linkedin"
+      },
+      {
+        "url": "https://github.com/carmelo42",
+        "username": "carmelo42",
+        "network": "github"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company":"Adista",
+      "location":"Saint-Etienne, FR",
+      "description":"Opérateurs de services hébergés",
+      "position":"Administrateur de Systèmes Open Source",
+      "website":"https://www.adista.fr",
+      "startDate":"2019",
+      "endDate":"2019",
+      "summary":"DevOps, sysadmin",
+      "highlights":[
+        "infrastructure As Code",
+        "Pilotage de projets Web Open Source",
+        "Utilisation avancée d'outils d'intégration et de déploiement continue",
+        "RUN des infrastructures clients" 
+      ]
+    },
+
+    {
+      "company":"Moi même :)",
+      "location":"Saint-Etienne, FR",
+      "description":"Création d'une Société de Service Informatiques",
+      "position":"Administrateur de Systèmes Open Source",
+      "startDate":"2017",
+      "endDate":"2019",
+      "summary":"DevOps, sysadmin, vente, créaweb",
+      "highlights":[
+        "Création d'une Société de Service Informatiques",
+        "Découverte du monde de l'entreprise côté Entrepreneur !",
+        "Création de sites internet",
+        "Administration de serveurs"
+      ]
+    },
+
+    {
+      "company":"IBOU",
+      "location":"Saint-Etienne, FR",
+      "description":"Laboratoire d'Expertises Judiciaires",
+      "position":"Administrateur systèmes, Assistant Expert Judiciaire",
+      "startDate":"2013",
+      "endDate":"2017",
+      "summary":"sysadmin, project leader, expert, analyse",
+      "highlights":[
+        "Administration de l'infrastructure de production",
+        "Réalisation de missions d'expertises judiciaires",
+        "Assistance aux huissiers de justice",
+        "Développement d'outils de tracking et d'enregistrement vidéos"
+      ]
+    },
+
+    {
+      "company":"Groupe Casino",
+      "location":"Saint-Etienne, FR",
+      "description":"Grande Distribution",
+      "position":"Technicien de support",
+      "website":"https://www.groupe-casino.fr",
+      "startDate":"2003",
+      "endDate":"2007",
+      "summary":"support, dépannage" 
+    },
+
+    {
+      "company":"Diverses écoles",
+      "location":"Saint-Etienne, Ambert, ...",
+      "description":"Enseignant",
+      "position":"Professeur de Violon & Formation Musicale",
+      "summary":"apprentissage à de jeunes enfants ou à des adultes", 
+      "startDate":"2003",
+      "endDate":"2017"
+    }
+   
+  ],
+  
+  "skills": [
+    {
+      "name": "Architecture",
+      "level": "",
+      "score": "90",
+      "keywords": [
+        "Terraform",
+        "Ansible",
+        "Packer",
+        "Vagrant"
+      ]      
+    },
+    {
+      "level": "",
+      "name": "Cloud & hypervisors",
+      "score": "80",
+      "keywords": [
+        "LXD",
+        "OVH",
+        "AWS",
+        "Vmware"
+      ]
+    },
+    {
+      "level": "",
+      "name": "Containers",
+      "score": "90",
+      "keywords": [
+        "LXC"
+      ]
+    },
+    {
+      "level": "",
+      "name": "Monitoring & metrology",
+      "score": "70",
+      "keywords": [
+        "Grafana",
+        "Influxdb",
+        "Prometheus"
+      ]
+    },
+    {
+      "level": "",
+      "name": "Languages, Operating Systems & Tools",
+      "score": "90",
+      "keywords": [
+        "bash",
+        "nodejs",
+        "python",
+        "git",
+        "linux"
+      ]
+    },
+    {
+      "level": "",
+      "name": "Research & Development",
+      "score": "90",
+      "keywords": [
+        "IP Networking",
+        "DNS",
+        "Firewalls",
+        "Load Balancing",
+        "SaaS/PaaS/IaaS",
+        "CI/CD",
+        "IOT",
+        "Security"
+      ]
+    }
+  ],
+ 
+  "publications": [
+  ],
+  "interests": [
+    {
+      "name": "Musique classique",
+      "summary": "une ouverture d'esprit",
+      "keywords": [
+        "Violon"
+      ]
+    },
+    {
+      "name": "IOT / Domotique",
+      "summary": "la domotique, c'est l'automation de sa maison ;)",
+      "keywords": [
+        "IOT",
+        "DIY"
+      ]
+    },
+    {
+      "name": "Bricolage",
+      "summary": "Savoir prendre le temps.",
+      "keywords": [
+        "Mécanique",
+        "Impression 3D"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "reference": "Particulièrement efficace et disponible pour les collègues. J'ai eu le plaisir de travailler avec Carmelo pendant 9 mois sur des projets Ansible et de CI/CD. J'ai été particulièrement impressionné par sa capacité d'apprentissage et sa rapidité à s'approprier nos projets Web Opensources. Carmelo est un atout dans une équipe DevOps.",
+      "name": "Mathieu GARCIA - Expert IT, ADISTA"
+
+    },
+    {
+      "reference": "Carmelo est rigoureux, motivé, curieux et sérieux. Un must-have dans son équipe et dans son entreprise",
+      "name": "Sandro CAZZANIGA, Team Leader BU Ops, SMILE"
+    }
+  ],
+  "languages":[
+    {
+      "language":"English",
+      "fluency":"Advanced"
+    },
+    {
+      "language":"Deutsch",
+      "fluency":"Ein bisschen"
+    },
+    {
+      "language":"Français",
+      "fluency": "Langue maternelle"
+    }
+  ]
+  
+  
+}
